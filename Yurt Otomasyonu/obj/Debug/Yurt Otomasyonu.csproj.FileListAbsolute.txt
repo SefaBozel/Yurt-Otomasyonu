@@ -1,0 +1,25 @@
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Giris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OgrenciKayit.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Anasayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaDurum.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.KayitliOgrenciler.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OrtakGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OgrenciGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaTalepleri.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OgrenciAnaSayfa.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OgrenciOda.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OgrenciİzinTalep.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.IzinTalepleri.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.IzinliOgrenciler.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.YurdaGirmeyenler.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.GuvenlikGiris.resources
+C:\Users\sefa_\OneDrive\Masaüstü\C#\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.GuvenlikSistemi.resources
